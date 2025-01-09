@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VolodyaQuiz</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect :(</string>
+
+    <string name="show_answer_warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="cheating_is_wrong">Cheating is wrong…</string>
+    <string name="api_version">API Version %1$d</string>
+    <string name="hints_amount">Hints: %1$d</string>
+
+    <string name="default_question_text">Is Volodya gay?</string>
+    <string name="question_coke">Does Volodya like coke?</string>
+    <string name="question_android">Does Volodya learn android development?</string>
+    <string name="question_onion">Does Volodya like onion?</string>
+    <string name="question_windows">Does Volodya like Windows?</string>
+    <string name="question_python">Does Volodya like Python?</string>
+</resources>
